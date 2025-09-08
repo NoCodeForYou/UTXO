@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin UTXO Slideshow",
+  "description": "An interactive slideshow deck explaining the concept of Unspent Transaction Outputs (UTXOs) in the Bitcoin network. The presentation covers what UTXOs are, how they work, and their advantages over traditional account-based models.",
+  "requestFramePermissions": []
+}
